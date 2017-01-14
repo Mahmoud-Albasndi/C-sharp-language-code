@@ -1,0 +1,6 @@
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Abstract_Claas\Abstract_Claas\bin\Debug\Abstract_Claas.exe.config
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Abstract_Claas\Abstract_Claas\bin\Debug\Abstract_Claas.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Abstract_Claas\Abstract_Claas\bin\Debug\Abstract_Claas.pdb
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Abstract_Claas\Abstract_Claas\obj\Debug\Abstract_Claas.csprojResolveAssemblyReference.cache
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Abstract_Claas\Abstract_Claas\obj\Debug\Abstract_Claas.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Abstract_Claas\Abstract_Claas\obj\Debug\Abstract_Claas.pdb
