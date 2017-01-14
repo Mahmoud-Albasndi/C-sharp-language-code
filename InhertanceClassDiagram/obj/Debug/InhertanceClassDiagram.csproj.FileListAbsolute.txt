@@ -1,0 +1,6 @@
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\InhertanceClassDiagram\InhertanceClassDiagram\bin\Debug\InhertanceClassDiagram.exe.config
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\InhertanceClassDiagram\InhertanceClassDiagram\bin\Debug\InhertanceClassDiagram.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\InhertanceClassDiagram\InhertanceClassDiagram\bin\Debug\InhertanceClassDiagram.pdb
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\InhertanceClassDiagram\InhertanceClassDiagram\obj\Debug\InhertanceClassDiagram.csprojResolveAssemblyReference.cache
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\InhertanceClassDiagram\InhertanceClassDiagram\obj\Debug\InhertanceClassDiagram.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\InhertanceClassDiagram\InhertanceClassDiagram\obj\Debug\InhertanceClassDiagram.pdb
