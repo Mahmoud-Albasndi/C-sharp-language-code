@@ -1,0 +1,6 @@
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\PartialClasses\PartialClasses\bin\Debug\PartialClasses.exe.config
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\PartialClasses\PartialClasses\bin\Debug\PartialClasses.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\PartialClasses\PartialClasses\bin\Debug\PartialClasses.pdb
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\PartialClasses\PartialClasses\obj\Debug\PartialClasses.csprojResolveAssemblyReference.cache
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\PartialClasses\PartialClasses\obj\Debug\PartialClasses.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\PartialClasses\PartialClasses\obj\Debug\PartialClasses.pdb
