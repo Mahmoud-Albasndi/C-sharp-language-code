@@ -1,0 +1,6 @@
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\ParamsReference\ParamsReference\bin\Debug\ParamsReference.exe.config
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\ParamsReference\ParamsReference\bin\Debug\ParamsReference.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\ParamsReference\ParamsReference\bin\Debug\ParamsReference.pdb
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\ParamsReference\ParamsReference\obj\Debug\ParamsReference.csprojResolveAssemblyReference.cache
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\ParamsReference\ParamsReference\obj\Debug\ParamsReference.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\ParamsReference\ParamsReference\obj\Debug\ParamsReference.pdb
