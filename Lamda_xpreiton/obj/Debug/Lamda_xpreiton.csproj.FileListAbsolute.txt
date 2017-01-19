@@ -1,0 +1,6 @@
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Lamda_xpreiton\Lamda_xpreiton\bin\Debug\Lamda_xpreiton.exe.config
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Lamda_xpreiton\Lamda_xpreiton\bin\Debug\Lamda_xpreiton.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Lamda_xpreiton\Lamda_xpreiton\bin\Debug\Lamda_xpreiton.pdb
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Lamda_xpreiton\Lamda_xpreiton\obj\Debug\Lamda_xpreiton.csprojResolveAssemblyReference.cache
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Lamda_xpreiton\Lamda_xpreiton\obj\Debug\Lamda_xpreiton.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Lamda_xpreiton\Lamda_xpreiton\obj\Debug\Lamda_xpreiton.pdb
