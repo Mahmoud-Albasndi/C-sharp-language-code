@@ -1,0 +1,6 @@
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\AssertMethod\AssertMethod\bin\Debug\AssertMethod.exe.config
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\AssertMethod\AssertMethod\bin\Debug\AssertMethod.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\AssertMethod\AssertMethod\bin\Debug\AssertMethod.pdb
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\AssertMethod\AssertMethod\obj\Debug\AssertMethod.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\AssertMethod\AssertMethod\obj\Debug\AssertMethod.pdb
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\AssertMethod\AssertMethod\obj\Debug\AssertMethod.csprojResolveAssemblyReference.cache
