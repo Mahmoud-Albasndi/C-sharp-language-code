@@ -1,0 +1,6 @@
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Do While\Do While\bin\Debug\Do While.exe.config
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Do While\Do While\bin\Debug\Do While.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Do While\Do While\bin\Debug\Do While.pdb
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Do While\Do While\obj\Debug\Do While.csprojResolveAssemblyReference.cache
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Do While\Do While\obj\Debug\Do While.exe
+c:\users\mahmoud albasndi\documents\visual studio 2015\Projects\Do While\Do While\obj\Debug\Do While.pdb
