@@ -1,0 +1,6 @@
+D:\Console. Application\Exception Filters\Exception Filters\bin\Debug\Exception Filters.exe.config
+D:\Console. Application\Exception Filters\Exception Filters\bin\Debug\Exception Filters.exe
+D:\Console. Application\Exception Filters\Exception Filters\bin\Debug\Exception Filters.pdb
+D:\Console. Application\Exception Filters\Exception Filters\obj\Debug\Exception Filters.csprojResolveAssemblyReference.cache
+D:\Console. Application\Exception Filters\Exception Filters\obj\Debug\Exception Filters.exe
+D:\Console. Application\Exception Filters\Exception Filters\obj\Debug\Exception Filters.pdb
