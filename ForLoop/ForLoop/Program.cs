@@ -15,7 +15,7 @@ namespace ForLoop
             {
                 for (int j = 1; j <= 10; j++)
                 {
-                    if (i == 6)
+                    if (i <= 6)
                         continue;
                     Console.WriteLine(i + "*" +j+ "=" + (i*j));
                 }
